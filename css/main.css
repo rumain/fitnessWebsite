@@ -1,0 +1,12 @@
+.fakeimg {
+    height: 300px;
+    background: #aaa;
+	  }
+	  .carousel-inner img {
+    width: 100%;
+    height: 20%;
+  }
+.caption{
+          padding: 10px;
+
+      }
